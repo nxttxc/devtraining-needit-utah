@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <interoperable>false</interoperable>
+        <name>NeedIt Application</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>needit_application922599420</route_type>
+        <screen_type display_value="NeedIt Application">6fe51d1dc358b21083eff73ed40131b6</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-29 06:44:41</sys_created_on>
+        <sys_id>33e51d1dc358b21083eff73ed40131f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Application</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_app_route_33e51d1dc358b21083eff73ed40131f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-29 06:44:41</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=33e51d1dc358b21083eff73ed40131f4"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>cdadd52edba67d1038f11729139619ba</instance_id>
+        <instance_name>dev217402</instance_name>
+        <name>sys_ux_app_route_33e51d1dc358b21083eff73ed40131f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config><description/><extension_point/><fields/><icon/><interoperable>false</interoperable><name>NeedIt Application</name><optional_parameters/><order>0</order><parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>needit_application922599420</route_type><screen_type display_value="NeedIt Application">6fe51d1dc358b21083eff73ed40131b6</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-29 06:44:41</sys_created_on><sys_id>33e51d1dc358b21083eff73ed40131f4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Application</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_app_route_33e51d1dc358b21083eff73ed40131f4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-29 06:44:41</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=33e51d1dc358b21083eff73ed40131f4"/></record_update>]]></payload>
+        <payload_hash>-1339075831</payload_hash>
+        <record_name>NeedIt Application</record_name>
+        <reverted_from/>
+        <source>6845baa0c354321083eff73ed4013171</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-29 06:44:41</sys_created_on>
+        <sys_id>3fe55d1dc358b21083eff73ed4013110</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199943763840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-29 06:44:41</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>73e55d1d9558b21084492347afcf9010</update_guid>
+        <update_guid_history>73e55d1d9558b21084492347afcf9010:-1339075831</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-29 06:45:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>52897f129c7a4f90b597725ea684f100</sys_id>
+        <sys_metadata>33e51d1dc358b21083eff73ed40131f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Application</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_33e51d1dc358b21083eff73ed40131f4</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_33e51d1dc358b21083eff73ed40131f4">3fe55d1dc358b21083eff73ed4013110</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-29 06:45:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
